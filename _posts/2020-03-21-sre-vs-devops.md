@@ -22,7 +22,7 @@ Today while reading [Seeking SRE](https://www.amazon.com/Seeking-SRE-Conversatio
 
 This analysis is accompanied by a diagram similar to the following:
 
-![limoncelli model](http://www.shaunabram.com/wp-content/uploads/2019/03/SRE_DevOps_Diagram-1.png "The Limoncelli Model of SRE, DevOps and Agile strategies")
+![limoncelli model](https://www.shaunabram.com/wp-content/uploads/2019/03/SRE_DevOps_Diagram-1.png "The Limoncelli Model of SRE, DevOps and Agile strategies")
 
 As I now understand it, DevOps was a response to increased development velocity (caused by Agile, etc.). With the development bottleneck removed, the next bottleneck was in testing and deployment -- and the solution to this problem was DevOps. DevOps engineers (rightly, in their case) focused on that bottleneck, and developed tools and philosophies to increase deployment velocity.
 
